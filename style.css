@@ -1,0 +1,158 @@
+#good {
+  color: #000;
+  font-size: 72px;
+  text-align: center;
+  line-height: 86px;
+  font-family: lato;
+  font-weight: 700;
+}
+
+#image {
+  width: 568px;
+  height: 446px;
+  margin-left: 55px;
+}
+
+#well {
+  font-size: 40px;
+  margin-left: 55px;
+  width: 568px;
+  text-align: center;
+  font-family: lato;
+  font-weight: 700;
+}
+
+#sad {
+  color: #414651;
+  text-align: center;
+  font-size: 20px;
+  width: 568px;
+  height: 96px;
+  margin-left: 55px;
+  line-height: 24px;
+}
+
+#done {
+  color: #155eef;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 568px;
+  margin-left: 32px;
+}
+
+#you {
+  border: 2px solid #cea201;
+  padding: 12px 32px 12px 32px;
+  width: 113px;
+  height: 32px;
+  text-align: center;
+  margin-left: 55px;
+  font-size: 24px;
+  color: #cea201;
+}
+
+#are {
+  color: #000;
+  font-size: 50px;
+  margin-left: 55px;
+  font-family: Lato;
+  width: 722px;
+  height: 48px;
+  font-weight: 700;
+}
+
+#we {
+  color: #414651;
+  text-align: center;
+  font-family: Lato;
+  font-size: 20px;
+  width: 722px;
+  height: 72px;
+  margin-left: 55px;
+}
+#bmw {
+  width: 722px;
+  height: 24px;
+  text-align: center;
+  margin-left: 55px;
+  color: #00c76e;
+  font-family: Lato;
+  font-size: 20px;
+}
+
+#mersedes {
+  color: #ff5da3;
+  font-family: Lato;
+  font-size: 16px;
+  width: 461px;
+  height: 72px;
+  margin-left: 169px;
+  font-weight: 400;
+}
+
+#google {
+  width: 200px;
+  height: 200px;
+  top: 1087px;
+  margin-left: 55px;
+}
+
+#border {
+  color: #c27512;
+  padding: 16px 16px 16px 16px;
+  border: solid 6px #c11574;
+  width: 690px;
+  height: 150px;
+  background-color: #ffdef0;
+  margin-left: 55px;
+  margin-top: 24px;
+}
+
+#novatori {
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 690px;
+  height: 128px;
+  padding: 16px 16px 16px 16px;
+}
+
+#ppp {
+  text-align: left;
+  color: #414651;
+  width: 690px;
+  height: 24px;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 24px;
+        margin-top: 16px;
+}
+
+#iff {
+  width: 298.012px;
+  height: 396px;
+  top: 24;
+  margin-left: 55px;
+}
+
+#omg {
+  width: 298.012px;
+  height: 396px;
+  margin-top: 24px;
+  margin-left: 55px;
+}
+
+#last {
+    color: #00D4BC;
+font-family: Lato;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px; 
+text-decoration-line: underline;
+text-align: center;
+}
