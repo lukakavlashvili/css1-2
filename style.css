@@ -92,6 +92,8 @@
   font-weight: 400;
 }
 
+
+
 #google {
   width: 200px;
   height: 200px;
@@ -119,7 +121,9 @@
   width: 690px;
   height: 128px;
   padding: 16px 16px 16px 16px;
+margin-top: 16px;
 }
+
 
 #ppp {
   text-align: left;
